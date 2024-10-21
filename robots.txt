@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bilereate.github.io/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/app/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/assets/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/css/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/includes/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/item/bilereate.txt.gz
+Sitemap: https://bilereate.github.io/src/bilereate.txt.gz
